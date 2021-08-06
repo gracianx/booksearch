@@ -1,0 +1,19 @@
+{
+  "name": "booksearch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ECHO "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gracianx/booksearch.git"
+  },
+  "author": "Gracianx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gracianx/booksearch/issues"
+  },
+  "homepage": "https://github.com/gracianx/booksearch#readme"
+}
